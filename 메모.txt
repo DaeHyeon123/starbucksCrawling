@@ -1,0 +1,6 @@
+반복되는작업 -> 함수로 만들기
+
+객체.find_element('tag name', {'class':'클래스이름'})
+객체.select('태그.가져오려는 속성이름')
+
+columns=([])                                                               
